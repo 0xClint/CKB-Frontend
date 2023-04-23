@@ -1,0 +1,13 @@
+export { ReactComponent as Notification } from "./notification.svg";
+export { ReactComponent as Arrow } from "./diagonalArrow.svg";
+export { ReactComponent as Plus } from "./plus.svg";
+export { ReactComponent as Success } from "./success.svg";
+export { ReactComponent as HomeIcon } from "./home.svg";
+export { ReactComponent as Setting } from "./setting.svg";
+export { ReactComponent as Apps } from "./apps.svg";
+export { ReactComponent as Transaction } from "./transaction.svg";
+export { ReactComponent as Assets } from "./assets.svg";
+export { ReactComponent as AddBook } from "./addBook.svg";
+export { ReactComponent as RightArrow } from "./rightArrow.svg";
+export { ReactComponent as LeftArrow } from "./leftArrow.svg";
+// export { ReactComponent as  } from "./.svg";
