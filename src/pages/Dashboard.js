@@ -106,8 +106,8 @@ const Dashboard = () => {
           <div className="flex gap-3 items-center text-[0.8rem]">
             <div className="h-10 w-10 rounded-full bg-white "></div>
             <div className="text-left">
-              <p className="font-semibold">User Name</p>
-              <p>ckt1qzda...edv3tw</p>
+              <p className="font-semibold">Owner 2</p>
+              <p>ckt1qz...g47nwkm</p>
             </div>
           </div>
         </div>
@@ -199,13 +199,13 @@ const Dashboard = () => {
                   </p>
                 </div>
 
-                {/* <div className="w-full bg-[#1C1C1C] rounded-md flex gap-5 p-5 border-[1.5px] border-[#4F4F4F] mb-5 ">
+                <div className="w-full bg-[#1C1C1C] rounded-md flex gap-5 p-5 border-[1.5px] border-[#4F4F4F] mb-5 ">
                   <p className="w-[25%]">1</p>
-                  <p className="w-[25%]">Send</p>
-                  <p className="w-[25%]">-0.05GOR</p>
-                  <p className="w-[25%]">1/2</p>
+                  <p className="w-[25%]">Sent</p>
+                  <p className="w-[25%]">10CKB</p>
+                  <p className="w-[25%]">2/3</p>
                 </div>
-                <div className="w-full bg-[#1C1C1C] rounded-md flex gap-5 p-5 border-[1.5px] border-[#4F4F4F] mb-5">
+                {/* <div className="w-full bg-[#1C1C1C] rounded-md flex gap-5 p-5 border-[1.5px] border-[#4F4F4F] mb-5">
                   <p className="w-[25%]">1</p>
                   <p className="w-[25%]">Send</p>
                   <p className="w-[25%]">-0.05GOR</p>

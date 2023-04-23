@@ -46,8 +46,8 @@ const Header = () => {
         <div className="flex gap-3 items-center text-[0.8rem]">
           <div className="h-10 w-10 rounded-full bg-white "></div>
           <div className="text-left">
-            <p className="font-semibold">User Name</p>
-            <p>0xb20can3bs...</p>
+            <p className="font-semibold">Account 1</p>
+            <p>ckt1q...dv3tw</p>
           </div>
         </div>
       </div>
